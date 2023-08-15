@@ -1,0 +1,17 @@
+
+
+.home-navbar {
+    margin:auto;
+    font-family: "EB Garamond", sans-serif;
+    color: rgb(18,18,18);
+    opacity: 1;
+    font-weight: bold;
+}
+
+#NavLinks {
+    border-bottom: 2.5px solid black;
+}
+.logo {
+    height:4em;
+    padding-right: 10px;
+}
