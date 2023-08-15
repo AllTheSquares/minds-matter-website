@@ -1,4 +1,4 @@
-import {Navbar, NavLink, NavDropdown, Nav, Container, NavbarBrand} from "react-bootstrap"
+import {Navbar, Nav, Container} from "react-bootstrap"
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './mm-navbar.css'
 import MMLogo from './assets/MM-Logo.svg'

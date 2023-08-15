@@ -12,7 +12,48 @@ body {
     font-family: "EB Garamond", sans-serif;
 }
 
-h1 {
+.page-title{
+    padding-top:5vh;
     text-align: center;
+    padding-bottom: 5vh;
 
+}
+
+.page-title h1{
+    font-size: calc(1rem + 5vw);
+    font-weight: bold;
+
+}
+.page-title h2 {
+    margin: auto;
+    padding-left: 2vh;
+    padding-right: 2vh;
+    font-size: calc(1rem + 1vw);
+}
+
+.page-slogan h3{
+    margin:auto;
+    font-style: italic;
+    text-align: left;
+    color: rgb(128,128,128);
+    padding: calc(1rem + 2vw) calc(1rem + 20vw);
+}
+
+h3 {
+    padding-bottom: calc(1rem + .5vw);
+    margin:auto;
+    text-align: center;
+    font-weight: bold;
+}
+
+.our-mission{
+    padding: calc(1rem + 2vw) calc(2rem + 1vw);
+    text-align: center;
+    font-size: calc(0.75rem + 1vw);
+}
+
+.our-mission, .resources{
+    padding: calc(1rem + 2vw) calc(2rem + 1vw);
+    text-align: center;
+    font-size: calc(0.75rem + 1vw);
 }
